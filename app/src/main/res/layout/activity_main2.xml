@@ -69,7 +69,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="32dp"
         android:fontFamily="@font/graphiksemibold"
-        android:text="Symptômes les plus fréquents"
+        android:text="Most common symptoms"
         android:textColor="#3F51B5"
         android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
