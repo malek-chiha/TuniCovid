@@ -1,14 +1,32 @@
 <resources>
     <string name="app_name">TuniCovid</string>
-    <string name="title_activity_main9">MainActivity</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <string name="Your result" translatable="false"> Your result</string>
+    <string name="negative" translatable="false"> You tested negative</string>
+    <string name="test" translatable="false"> you probably were not infected at the time , your
+        sample is collected , the test result only means that you did not have covid-19 at the time
+        of testing . continue to take steps to protect yourself </string>
+    <string name="own" translatable="false">Do your own test </string>
+    <string name="affect" translatable="false"> covid19 affects  people in different ways
+        .Most infected people  develop a mild to moderate from of the disease and recover
+        without hospialization </string>
+    <string name="frequence" translatable="false"> Most frequent symptoms </string>
+    <string name="fv" translatable="false">Fever </string>
+    <string name="dry" translatable="false">Dry cough </string>
+    <string name="td" translatable="false">Tired </string>
+    <string name="less" translatable="false">Less common symptoms  </string>
+    <string name="diarrhea" translatable="false">Diarrhea  </string>
+    <string name="conj" translatable="false">Conjunctives  </string>
+    <string name="headache" translatable="false">Headache </string>
+    <string name="smell" translatable="false">Loss of smell or taste  </string>
+    <string name="rash" translatable="false">Rash , or discoloration of the fingers or toes   </string>
+    <string name="sore" translatable="false">"sore throat "</string>
+    <string name="sev" translatable="false">" severe symptoms "</string>
+    <string name="bre" translatable="false">" difficulty breathing or shortness of breath  "</string>
+    <string name="ee" translatable="false">" eeling of tightness or pain in the chest   "</string>
+    <string name="skill" translatable="false">"loss of speech or motor skills    "</string>
+    <string name="pos" translatable="false">"You tested positive    "</string>
+    <string name="worr" translatable="false">"Don't worry , you have to know what protective steps to take to prevent others from getting sick  "</string>
+    <string name="bc">your result</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="title_activity_splashcreen">splashcreen</string>
 
 </resources>

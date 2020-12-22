@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TuniCovid</string>
+    <string name="negative" translatable="false">"vous êtes testé négative "</string>
+    <string name="test" translatable="false">" vous n'étiez probablement pas infecté à l'époque, votre échantillon est collecté, le résultat du test signifie uniquement que vous n'aviez pas de covid-19 au moment du test. continuez à prendre des mesures pour vous protéger"</string>
+    <string name="own" translatable="false">" Faites votre propre test"</string>
+    <string name="affect" translatable="false">" covid19 affecte les gens de différentes manières. La plupart des personnes infectées développent un léger à modéré de la maladie et se rétablissent sans hospitalisation"</string>
+    <string name="frequence" translatable="false">"Symptômes plus fréquents "</string>
+    <string name="fv" translatable="false">" fièvre"</string>
+    <string name="dry" translatable="false">" Toux sèche"</string>
+    <string name="td" translatable="false">" fatiguée"</string>
+    <string name="less" translatable="false">" Symptômes moins courants"</string>
+    <string name="sore" translatable="false">" gorge irritée"</string>
+    <string name="diarrhea" translatable="false">" La diarrhée"</string>
+    <string name="conj" translatable="false">" conjonctives"</string>
+    <string name="headache" translatable="false">" mal de crâne"</string>
+    <string name="smell" translatable="false">" Perte d'odeur ou de goût"</string>
+    <string name="rash" translatable="false">" Éruption cutanée ou décoloration des doigts ou des orteils"</string>
+    <string name="sev" translatable="false">"symptomes graves "</string>
+    <string name="ee" translatable="false">" sensation d'oppression ou de douleur dans la poitrine"</string>
+    <string name="bre" translatable="false">" difficulté à respirer ou essoufflement"</string>
+    <string name="skill" translatable="false">" perte de la parole ou de la motricité"</string>
+    <string name="pos" translatable="false">" vous avez testé positif"</string>
+    <string name="worr" translatable="false">" Ne vous inquiétez pas, vous devez savoir quelles mesures de protection prendre pour empêcher les autres de tomber malades"</string>
+    <string name="bc">"votre résultat "</string>
+</resources>
