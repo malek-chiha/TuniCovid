@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">TuniCovid</string>
-    <string name="Your result" translatable="false"> Your result</string>
     <string name="negative" translatable="false"> You tested negative</string>
     <string name="test" translatable="false"> you probably were not infected at the time , your
         sample is collected , the test result only means that you did not have covid-19 at the time
@@ -26,7 +25,8 @@
     <string name="skill" translatable="false">"loss of speech or motor skills    "</string>
     <string name="pos" translatable="false">"You tested positive    "</string>
     <string name="worr" translatable="false">"Don't worry , you have to know what protective steps to take to prevent others from getting sick  "</string>
-    <string name="bc">your result</string>
+    <string name="bc" translatable="false">your result</string>
+    <string name="you_probably_were_not_infected_at_the_time_your_sample_was_collected_the_test_result_only_means_that_you_did_not_have_covid_19_at_the_time_of_testing_continue_to_take_steps_to_protect_yourself">You probably were not infected at the time your sample was collected. The test result only means that you did not have COVID-19 at the time of testing. Continue to take steps to protect yourself.</string>
 
 
 </resources>

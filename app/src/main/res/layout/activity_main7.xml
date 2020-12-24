@@ -26,9 +26,10 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="92dp"
         android:fontFamily="@font/graphiksemibold"
-        android:text="@string/"
-        android:text2="@string/negative"
-        android:text3="@string/test"
+
+
+
+        android:text="@string/test"
         android:textColor="#FFFFFF"
         android:textSize="36sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -59,7 +60,7 @@
         android:layout_marginStart="4dp"
         android:layout_marginEnd="4dp"
         android:fontFamily="@font/graphikmedium"
-        android:text="You probably were not infected at the time your sample was collected. The test result only means that you did not have COVID-19 at the time of testing. Continue to take steps to protect yourself."
+        android:text="@string/you_probably_were_not_infected_at_the_time_your_sample_was_collected_the_test_result_only_means_that_you_did_not_have_covid_19_at_the_time_of_testing_continue_to_take_steps_to_protect_yourself"
         android:textColor="#303F9F"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
