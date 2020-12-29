@@ -21,7 +21,8 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/accessibility" />
+        app:srcCompat="@drawable/accessibility"
+        />
 
     <TextView
         android:id="@+id/textView9"
@@ -31,8 +32,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="40dp"
         android:fontFamily="@font/graphiksemibold"
-        android:text="DO YOUR OWN TEST !"
-
+        android:text="@string/do_your_own_testt"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -55,7 +55,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
         android:layout_marginTop="60dp"
-        android:text="COVID-19 affects people in different ways. Most infected people develop a mild to moderate form of the disease and recover without hospitalization."
+        android:text="@string/covid_19_affects_people_in_different_ways_most_infected_people_develop_a_mild_to_moderate_form_of_the_disease_and_recover_without_hospitalization"
         android:textColor="#050505"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -70,7 +70,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="32dp"
         android:fontFamily="@font/graphiksemibold"
-        android:text="Most common symptoms"
+        android:text="@string/most_common_symptoms"
         android:textColor="#3F51B5"
         android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -82,7 +82,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
         android:layout_marginTop="40dp"
-        android:text="fever"
+        android:text="@string/fever"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView8" />
 
@@ -92,7 +92,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
         android:layout_marginTop="40dp"
-        android:text="dry cough"
+        android:text="@string/dry_cough"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/checkBox2" />
 
@@ -102,7 +102,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
         android:layout_marginTop="40dp"
-        android:text="tired"
+        android:text="@string/tired"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/checkBox3" />
 
@@ -114,7 +114,7 @@
         android:layout_marginEnd="40dp"
         android:backgroundTint="#B5C61E57"
         android:fontFamily="@font/graphiksemibold"
-        android:text="Next"
+        android:text="@string/next"
         android:textColor="#FFFFFF"
         android:textDirection="firstStrong"
         android:verticalScrollbarPosition="right"

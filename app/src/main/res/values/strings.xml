@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">TuniCovid</string>
     <string name="negative" translatable="false"> You tested negative</string>
     <string name="test" translatable="false"> you probably were not infected at the time , your
@@ -26,7 +26,48 @@
     <string name="pos" translatable="false">"You tested positive    "</string>
     <string name="worr" translatable="false">"Don't worry , you have to know what protective steps to take to prevent others from getting sick  "</string>
     <string name="bc" translatable="false">your result</string>
-    <string name="you_probably_were_not_infected_at_the_time_your_sample_was_collected_the_test_result_only_means_that_you_did_not_have_covid_19_at_the_time_of_testing_continue_to_take_steps_to_protect_yourself">You probably were not infected at the time your sample was collected. The test result only means that you did not have COVID-19 at the time of testing. Continue to take steps to protect yourself.</string>
+    <string name="you_probably_were_not_infected_at_the_time_your_sample_was_collected_the_test_result_only_means_that_you_did_not_have_covid_19_at_the_time_of_testing_continue_to_take_steps_to_protect_yourself" translatable="false" tools:ignore="MissingTranslation">You probably were not infected at the time your sample was collected. The test result only means that you did not have COVID-19 at the time of testing. Continue to take steps to protect yourself.</string>
+    <string name="you_test_negative" translatable="false">You test negative !</string>
+    <string name="yourresult" translatable="false">your result</string>
+    <string name="hello" translatable="false">hello</string>
+    <string name="action_settings" translatable="false">action</string>
+    <string name="home" translatable="false">home</string>
+    <string name="serach" translatable="false">search</string>
+    <string name="item_a" translatable="false">item</string>
+    <string name="item_b" translatable="false">itemb</string>
+    <string name="protect_yourself_and_others" translatable="false">Protect yourself and others</string>
+    <string name="do_your_own_test" translatable="false">Covid-19</string>
+    <string name="covid" translatable="false">COVID-19 affects people in different ways. Most infected people develop a mild to moderate form of the disease and recover without hospitalization.</string>
+    <string name="are_you_feeling_sick">Are you feeling sick ?</string>
+    <string name="all_you_need_is_stay_at_home">All you need is stay at home</string>
+    <string name="prevention">Prevention</string>
+    <string name="determine_your_test">Determine your test</string>
+    <string name="limit_the_propagation_of_covid_19">LIMIT THE PROPAGATION OF COVID-19</string>
+    <string name="testt">DO YOUR OWN TEST !</string>
+    <string name="less_common_symptoms">Less common symptoms</string>
+    <string name="stiffness">stiffness</string>
+    <string name="sore_throat">sore throat</string>
+    <string name="diarrheaa">diarrhea</string>
+    <string name="headachee">headache</string>
+    <string name="loss_of_smell_or_taste">loss of smell or taste</string>
+    <string name="conjunctivitis">conjunctivitis</string>
+    <string name="rash_or_discoloration_of_the_fingers_or_toes">rash, or discoloration of the fingers or toes</string>
+    <string name="next">Next</string>
+    <string name="do_your_own_testt">DO YOUR OWN TEST !</string>
+    <string name="covid_19_affects_people_in_different_ways_most_infected_people_develop_a_mild_to_moderate_form_of_the_disease_and_recover_without_hospitalization">COVID-19 affects people in different ways. Most infected people develop a mild to moderate form of the disease and recover without hospitalization.</string>
+    <string name="most_common_symptoms">Most common symptoms</string>
+    <string name="fever">fever</string>
+    <string name="dry_cough">dry cough</string>
+    <string name="tired">tired</string>
+    <string name="know_your_resualt">know your resualt</string>
+    <string name="do_your_own_testtt">DO YOUR OWN TEST !</string>
+    <string name="severe_symptoms">Severe symptoms</string>
+    <string name="difficulty_breathing_or_shortness_of_breath">difficulty breathing or shortness of breath</string>
+    <string name="feeling_of_tightness_or_pain_in_the_chest">Feeling of tightness or pain in the chest</string>
+    <string name="loss_of_speech_or_motor_skills">loss of speech or motor skills</string>
+    <string name="your_result">Your result</string>
+    <string name="you_test_positive">You test positive !</string>
+    <string name="don_t_worry_you_have_to_know_what_protective_steps_to_take_to_prevent_others_from_getting_sick">DON\'T WORRY !! You have to know what protective steps to take to prevent others from getting sick.</string>
 
 
 </resources>

@@ -9,7 +9,7 @@
     android:background="@drawable/ic_homebg2"
     android:orientation="vertical"
     android:padding="20dp"
-    tools:context=".MainActivity2">
+    tools:context=".MainActivity6">
 
     <ImageView
         android:id="@+id/imageView9"
@@ -31,7 +31,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="99dp"
         android:fontFamily="@font/graphiksemibold"
-        android:text="Your result"
+        android:text="@string/your_result"
         android:textColor="#FFFFFF"
         android:textSize="36sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -47,7 +47,7 @@
         android:layout_marginTop="110dp"
         android:layout_marginEnd="32dp"
         android:fontFamily="@font/graphiksemibold"
-        android:text="You test positive !"
+        android:text="@string/you_test_positive"
         android:textColor="#FF0000"
         android:textSize="36sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -62,7 +62,7 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="16dp"
         android:fontFamily="@font/graphiksemibold"
-        android:text="DON'T WORRY !! You have to know what protective steps to take to prevent others from getting sick."
+        android:text="@string/don_t_worry_you_have_to_know_what_protective_steps_to_take_to_prevent_others_from_getting_sick"
         android:textColor="#303F9F"
         android:textSize="18sp"
         android:textStyle="normal"
