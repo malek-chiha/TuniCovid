@@ -178,7 +178,7 @@
     <Button
         android:id="@+id/buttontest"
         android:layout_width="325dp"
-        android:layout_height="40dp"
+        android:layout_height="45dp"
         android:layout_marginStart="23dp"
         android:layout_marginTop="25dp"
         android:layout_marginEnd="23dp"
@@ -198,9 +198,9 @@
         tools:ignore="MissingConstraints,NotSibling" />
 
     <Button
-        android:id="@+id/btn"
+        android:id="@+id/btn_propagation"
         android:layout_width="325dp"
-        android:layout_height="40dp"
+        android:layout_height="45dp"
         android:layout_marginStart="23dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="23dp"
@@ -216,7 +216,7 @@
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.425"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn"
         app:layout_constraintVertical_bias="1.0"
