@@ -23,7 +23,6 @@
     <string name="pos" translatable="false">" vous avez testé positif"</string>
     <string name="worr" translatable="false">" Ne vous inquiétez pas, vous devez savoir quelles mesures de protection prendre pour empêcher les autres de tomber malades"</string>
     <string name="bc">"votre résultat "</string>
-    <string name="are_you_feeling_sick">Are you feeling sick ?</string>
     <string name="all_you_need_is_stay_at_home">All you need is stay at home</string>
     <string name="prevention">Prevention</string>
     <string name="determine_your_test">Determine your test</string>
@@ -53,4 +52,6 @@
     <string name="your_result">Your result</string>
     <string name="you_test_positive">You test positive !</string>
     <string name="don_t_worry_you_have_to_know_what_protective_steps_to_take_to_prevent_others_from_getting_sick">DON\'T WORRY !! You have to know what protective steps to take to prevent others from getting sick.</string>
+    <string name="tunicovid">TuniCovid</string>
+    <string name="are_you_feeling_sick">Are you feeling sick ?</string>
 </resources>
