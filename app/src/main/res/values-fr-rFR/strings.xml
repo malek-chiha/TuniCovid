@@ -54,4 +54,11 @@
     <string name="don_t_worry_you_have_to_know_what_protective_steps_to_take_to_prevent_others_from_getting_sick">DON\'T WORRY !! You have to know what protective steps to take to prevent others from getting sick.</string>
     <string name="tunicovid">TuniCovid</string>
     <string name="are_you_feeling_sick">Are you feeling sick ?</string>
+    <string name="login" translatable="false">s\'identifier</string>
+    <string name="password" translatable="false">Mot de passe</string>
+    <string name="swipe_right_for_login" translatable="false">"Glissez vers la droite pour s'identifier "</string>
+    <string name="register" translatable="false">"s'inscrire "</string>
+    <string name="re_type_password" translatable="false">saisir à un nouveau le mot de passe</string>
+    <string name="your_name" translatable="false">nom complet</string>
+    <string name="swipe_left_for_register" translatable="false">"Glissez vers la gauche pour s'idnetifier "</string>
 </resources>
