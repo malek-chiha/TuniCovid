@@ -9,7 +9,7 @@
     android:background="@drawable/ic_homebg2"
     android:orientation="vertical"
     android:padding="20dp"
-    tools:context=".MainActivity2">
+    tools:context=".First_activityActivity">
     <FrameLayout
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"
