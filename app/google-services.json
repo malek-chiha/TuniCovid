@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195529094838",
+    "project_id": "covid-9c552",
+    "storage_bucket": "covid-9c552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195529094838:android:68608afe8d7ec693acd817",
+        "android_client_info": {
+          "package_name": "com.example.tunicovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195529094838-l6r7a6u3621knue0ol64ipmu48tto7hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMwoFcg6uN_linwpwfy952lrgKvYebXR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195529094838-l6r7a6u3621knue0ol64ipmu48tto7hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
