@@ -61,4 +61,7 @@
     <string name="re_type_password" translatable="false">saisir à un nouveau le mot de passe</string>
     <string name="your_name" translatable="false">nom complet</string>
     <string name="swipe_left_for_register" translatable="false">"Glissez vers la gauche pour s'idnetifier "</string>
+    <string name="search">Search</string>
+    <string name="loginn">LogIn</string>
+    <string name="homee">Home</string>
 </resources>

@@ -10,7 +10,11 @@
     android:orientation="vertical"
     android:padding="20dp"
     tools:context=".MainActivity2">
-
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottomNavigationView"/>
     <Button
         android:id="@+id/buttontest"
         android:layout_width="325dp"

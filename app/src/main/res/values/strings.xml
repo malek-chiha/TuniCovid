@@ -83,6 +83,9 @@
     <string name="register" translatable="false">Register</string>
     <string name="re_type_password" translatable="false">Re-type Password</string>
     <string name="your_name" translatable="false">Full Name</string>
+    <string name="search">Search</string>
+    <string name="loginn">LogIn</string>
+    <string name="homee">Home</string>
 
 
 </resources>

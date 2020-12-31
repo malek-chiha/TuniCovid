@@ -2,11 +2,12 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 <item android:id="@+id/nav_home"
     android:icon="@drawable/ic_baseline_home_24"
-    android:title="Home"/>
+    android:title="@string/homee"/>
     <item android:id="@+id/nav_search"
         android:icon="@drawable/ic_search_black_24dp"
-        android:title="Search"/>
+        android:title="@string/search"
+        />
     <item android:id="@+id/nav_login"
         android:icon="@drawable/ic_baseline_person_outline_24"
-        android:title="LogIn"/>
+        android:title="@string/loginn"/>
 </menu>
